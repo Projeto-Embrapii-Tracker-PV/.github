@@ -1,6 +1,6 @@
 # Information about EMBRAPII Tracker/PB Project
 
-<p style="text-align: justify;">The EMBRAPII TRACKER/PV Project organization on the GitHub platform was developed to provide support to the research, development, and innovation (RD&I) project, _HUAWEI SOLAR TRACKING CONTROL (AI BASED)_, which aims to perform research and development activities of artificial intelligence (AI) based solution to increase power generation from the optimized positioning of solar panels in a photovoltaic generation plant on rainy days, cloudy or ideal conditions.</p>
+<p style="text-align: justify;">The EMBRAPII TRACKER/PV Project organization on the GitHub platform was developed to provide support to the research, development, and innovation (RD&I) project, HUAWEI SOLAR TRACKING CONTROL (AI BASED), which aims to perform research and development activities of artificial intelligence (AI) based solution to increase power generation from the optimized positioning of solar panels in a photovoltaic generation plant on rainy days, cloudy or ideal conditions.</p>
 
 ## More information in the links below:
 * [UFPB promove Renewable Innovation Day no próximo dia 10](https://www.ufpb.br/ufpb/contents/noticias/ufpb-promove-renewable-innovation-day-no-proximo-dia-10)
