@@ -1,8 +1,8 @@
-# Informações sobre Projeto EMBRAPII Tracker/PB
+# Information about EMBRAPII Tracker/PB Project
 
-<p style="text-align: justify;">A organização Projeto EMBRAPII TRACKER/PV na plataforma GitHub foi desenvolvida com o propósito de fornecar apoio ao projeto de pesquisa, desenvolvimento e inovação (PD&I), _HUAWEI SOLAR TRACKING CONTROL (AI BASED)_, que tem como objetivo executar atividades de pesquisa e desenvolvimento de uma solução fundamentada em inteligência artificial (IA) para aumentar a geração de energia a partir do posicionamento otimizado de painéis solares em uma planta de geração fotovoltaica em dias chuvosos, nublados ou em condições ideais.</p>
+<p style="text-align: justify;">The EMBRAPII TRACKER/PV Project organization on the GitHub platform was developed to provide support to the research, development, and innovation (RD&I) project, _HUAWEI SOLAR TRACKING CONTROL (AI BASED)_, which aims to perform research and development activities of artificial intelligence (AI) based solution to increase power generation from the optimized positioning of solar panels in a photovoltaic generation plant on rainy days, cloudy or ideal conditions.</p>
 
-## Mais informações nos links abaixo
+## More information in the links below:
 * [UFPB promove Renewable Innovation Day no próximo dia 10](https://www.ufpb.br/ufpb/contents/noticias/ufpb-promove-renewable-innovation-day-no-proximo-dia-10)
 * [UFPB firma entendimento com Huawei e Rio Alto visando pesquisas em tecnologia](https://www.ufpb.br/ufpb/contents/noticias/ufpb-firma-entendimento-com-huawei-e-rio-alto-visando-pesquisas-em-tecnologia)
 * [UNIDADE EMBRAPII DE TECNOLOGIAS EM OTIMIZAÇÃO DE ENERGIA | CEAR/UFPB – CENTRO DE ENERGIAS ALTERNATIVAS E RENOVÁVEIS DA UNIVERSIDADE FEDERAL DA PARAÍBA](https://embrapii.org.br/unidades/unidade-embrapii-de-tecnologias-em-otimizacao-de-energia-cear-ufpb-centro-de-energias-alternativas-e-renovaveis-da-universidade-federal-da-paraiba/#:~:text=O%20Centro%20de%20Energias%20Alternativas,Convers%C3%A3o%20e%20Efici%C3%AAncia%20de%20Energia.)
